@@ -1,0 +1,23 @@
+CSS NOTES
+
+**list-style: none;
+Removes any styling on <ul>
+
+**overflow: auto;
+Allows the element to be shown on the page no matter what.
+
+**display: block;
+turns a inline element into a block; example hotel project navbar home, about, contact links
+
+**margin: auto;
+Horizontally center the element within its container
+
+**max-width: <your width in px>
+The max-width CSS property sets the maximum width of an element. It prevents the used value of
+the width property from becoming larger than the value specified by max-width .
+
+**line-height: 1.2em;
+It's commonly used to set the distance between lines of text.
+
+**display: inline-block;
+We use inline-block to
